@@ -35,7 +35,7 @@ function checkprogress () {
 #Warnings and Alerts
 echo
 echo
-echo "Verify with Ming fstrim is complete on $link before snapping!"
+echo "Add Your Own Warnings Here"
 echo
 echo
 echo "###############################################################"
